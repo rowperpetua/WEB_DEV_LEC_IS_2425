@@ -41,3 +41,11 @@ a:hover {
     text-underline-offset: 1rem;
     text-decoration-color: rgb(37,150,190);
 }
+
+.logo {
+    font-size: 1.5rem;
+}
+
+.logo:hover {
+    cursor: default;
+}
