@@ -3,7 +3,9 @@
 #My Portfolio: ROW BY ROW
 
 ## 1. Description
+
 The portfolio contains a summary of me, as an Information System student in Technological University of the Philippines - Manila (TUP-M). It includes my contact information, photos, skills, and of course, some of my finished programming projects in my entire college life (first year to third year). This portfolio was named ROW BY ROW from my name ROWELA, this means step by step growth and achievements in programming languages.
+
 
 ## 2. How to clone the repository and run the site using vscode live server
 
@@ -18,31 +20,4 @@ The portfolio contains a summary of me, as an Information System student in Tech
 
 ##3. HTML Elements and Tags Used
 
-## 3. HTML Elements and Tags Used
-
-In my portfolio, I utilized various HTML elements and tags to structure the document effectively. Here are some key components:
-
-- **Document Structure**: 
-  - The `<html>` and `<body>` tags establish the foundation of the document. 
-  - I included meta tags within the `<head>` section for character set and viewport settings, ensuring the design is responsive across different devices.
-
-- **Title and Headings**: 
-  - The `<title>` tag names my portfolio as "My Portfolio," which appears in the browser tab.
-  - To create a clear hierarchy of content, I used heading tags like `<h1>`, `<h2>`, and `<h3>`. These tags help organize the information, making it easier for visitors to navigate through the sections.
-
-- **Text Formatting**: 
-  - I used the `<font>` tag to specify font face, size, and color for various text elements throughout the portfolio. While I recognize that CSS is a more modern and flexible approach, the `<font>` tag helped convey my intended design.
-
-- **Tables**: 
-  - I created tables using the `<table>`, `<tr>`, and `<td>` tags to present information systematically. This format allows for organized data display, which enhances readability.
-
-- **Images**: 
-  - The `<img>` tag was employed to include images of my projects. I utilized attributes like `src`, `alt`, `width`, and `height` to manage image properties effectively.
-
-- **Links and Navigation**: 
-  - I incorporated `<a>` tags to create hyperlinks, allowing users to navigate between different sections of the portfolio easily. This provides an interactive experience.
-
-- **Forms for Interaction**: 
-  - To facilitate visitor interaction, I included forms using the `<form>`, `<input>`, and `<textarea>` tags. These elements enable users to send messages or inquiries directly to me.
-
-This structure not only presents my content in an organized manner but also enhances user experience, making it easy for visitors to explore my portfolio.
+In my portfolio, I used different HTML elements to establish the proper arrangement of the document, the first step was to develop the html and body tags, and next came the meta tags for the responsive design. The title tag calls the portfolio "My Portfolio," while headings such as h1, h2, and h3 organize the content into the structure I want. The starter of the font tag is how the text is formatted initially. Nevertheless, tables with the table, tr, and td tags are the ones that are used to display the data in a systematic manner. One way to include images is by using img tags to list the source and alternative elements and by using a tags for hyperlinks. I adopted the procedure of creating forms by using form, input and formarea tags so that users can interact with the devices.
