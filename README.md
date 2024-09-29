@@ -1,6 +1,6 @@
 # WEB_DEV_LEC_IS_2425
  
-#My Portfolio: ROW BY ROW
+# My Portfolio: ROW BY ROW
 
 ## 1. Description
 
