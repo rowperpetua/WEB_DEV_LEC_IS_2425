@@ -18,10 +18,4 @@ The portfolio contains a summary of me, as an Information System student in Tech
 
 ##3. HTML Elements and Tags Used
 
-First, I utilized the <html> and <head> tags to establish the document structure, including meta tags for character set and viewport settings that ensure a responsive design. The <title> tag labels my portfolio as "My Portfolio," providing context for the page.
-
-The heading elements, such as <h1> and <h2>, organize my content hierarchically, making it easy for visitors to navigate. Also, I utilized the <font> tag to specify the font face, size, and color for text throughout the portfolio, although I recognize that CSS is a more modern approach.
-
-Tables, created with <table>, <tr>, <td>, and related attributes, serve to arrange information systematically. I used <img> tags to include pictures for my projects, using attributes like src, alt, width, and height to manage image properties.
-
-For interaction, I incorporated <a> tags for hyperlinks, allowing users to navigate between sections, while <button> tags provide a clickable interface. Additionally, forms are included through <form>, <input>, <label>, and <textarea> tags, enabling visitors to contact me directly.
+First, I utilized the <html> and <head> tags to establish the document structure, including meta tags for character set and viewport settings that ensure a responsive design. The <title> tag labels my portfolio as "My Portfolio," providing context for the page. The heading elements, such as <h1> and <h2>, organize my content hierarchically, making it easy for visitors to navigate. Also, I utilized the <font> tag to specify the font face, size, and color for text throughout the portfolio, although I recognize that CSS is a more modern approach.Tables, created with <table>, <tr>, <td>, and related attributes, serve to arrange information systematically. I used <img> tags to include pictures for my projects, using attributes like src, alt, width, and height to manage image properties. For interaction, I incorporated <a> tags for hyperlinks, allowing users to navigate between sections, while <button> tags provide a clickable interface. Additionally, forms are included through <form>, <input>, <label>, and <textarea> tags, enabling visitors to contact me directly.
