@@ -18,4 +18,31 @@ The portfolio contains a summary of me, as an Information System student in Tech
 
 ##3. HTML Elements and Tags Used
 
-First, I utilized the <html> and <head> tags to establish the document structure, including meta tags for character set and viewport settings that ensure a responsive design. The <title> tag labels my portfolio as "My Portfolio," providing context for the page. The heading elements, such as <h1> and <h2>, organize my content hierarchically, making it easy for visitors to navigate. Also, I utilized the <font> tag to specify the font face, size, and color for text throughout the portfolio, although I recognize that CSS is a more modern approach.Tables, created with <table>, <tr>, <td>, and related attributes, serve to arrange information systematically. I used <img> tags to include pictures for my projects, using attributes like src, alt, width, and height to manage image properties. For interaction, I incorporated <a> tags for hyperlinks, allowing users to navigate between sections, while <button> tags provide a clickable interface. Additionally, forms are included through <form>, <input>, <label>, and <textarea> tags, enabling visitors to contact me directly.
+## 3. HTML Elements and Tags Used
+
+In my portfolio, I utilized various HTML elements and tags to structure the document effectively. Here are some key components:
+
+- **Document Structure**: 
+  - The `<html>` and `<body>` tags establish the foundation of the document. 
+  - I included meta tags within the `<head>` section for character set and viewport settings, ensuring the design is responsive across different devices.
+
+- **Title and Headings**: 
+  - The `<title>` tag names my portfolio as "My Portfolio," which appears in the browser tab.
+  - To create a clear hierarchy of content, I used heading tags like `<h1>`, `<h2>`, and `<h3>`. These tags help organize the information, making it easier for visitors to navigate through the sections.
+
+- **Text Formatting**: 
+  - I used the `<font>` tag to specify font face, size, and color for various text elements throughout the portfolio. While I recognize that CSS is a more modern and flexible approach, the `<font>` tag helped convey my intended design.
+
+- **Tables**: 
+  - I created tables using the `<table>`, `<tr>`, and `<td>` tags to present information systematically. This format allows for organized data display, which enhances readability.
+
+- **Images**: 
+  - The `<img>` tag was employed to include images of my projects. I utilized attributes like `src`, `alt`, `width`, and `height` to manage image properties effectively.
+
+- **Links and Navigation**: 
+  - I incorporated `<a>` tags to create hyperlinks, allowing users to navigate between different sections of the portfolio easily. This provides an interactive experience.
+
+- **Forms for Interaction**: 
+  - To facilitate visitor interaction, I included forms using the `<form>`, `<input>`, and `<textarea>` tags. These elements enable users to send messages or inquiries directly to me.
+
+This structure not only presents my content in an organized manner but also enhances user experience, making it easy for visitors to explore my portfolio.
