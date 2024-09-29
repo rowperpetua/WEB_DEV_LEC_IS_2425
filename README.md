@@ -18,6 +18,6 @@ The portfolio contains a summary of me, as an Information System student in Tech
 7. Press Enter to create your local clone.
 
 
-##3. HTML Elements and Tags Used
+## 3. HTML Elements and Tags Used
 
 In my portfolio, I used different HTML elements to establish the proper arrangement of the document, the first step was to develop the html and body tags, and next came the meta tags for the responsive design. The title tag calls the portfolio "My Portfolio," while headings such as h1, h2, and h3 organize the content into the structure I want. The starter of the font tag is how the text is formatted initially. Nevertheless, tables with the table, tr, and td tags are the ones that are used to display the data in a systematic manner. One way to include images is by using img tags to list the source and alternative elements and by using a tags for hyperlinks. I adopted the procedure of creating forms by using form, input and formarea tags so that users can interact with the devices.
